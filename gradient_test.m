@@ -31,10 +31,9 @@ save('betas','betas')
 AJ_p = load('AMASSSkeleton.txt');
 
 
-%     value(i) = ((function_val(AJ_p, KJ) - function_val(AJ_o,KJ))/del)*z(i);
+
 g = g + ((function_val(AJ_p, KJ) - function_val(AJ_o,KJ))/del)*z;
-% end
-% g = (1/length(z))*sum(value);
+
 end
 g = g/L;
 end
