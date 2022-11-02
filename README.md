@@ -3,6 +3,11 @@ Tested using the SMPL model and Azure Kinect markerless motion capture data. Alg
 
 This was created as a final project for my Advanced Optimization class in Fall 2021. Some images are exerpts from my final presentation slides. The scripts are all in Matlab because (at the time) I wasn't confident enough in python to code it in time!
 
+# Acknowledgements 
+This project was supported in part by a DU Professional Research Opportunities for Faculty grant
+
+The SMPL body model: https://smpl.is.tue.mpg.de/
+
 # End result
 Using a constant stepsize of 1
 
