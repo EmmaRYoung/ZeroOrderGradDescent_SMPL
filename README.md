@@ -8,7 +8,7 @@ This project was supported in part by a DU Professional Research Opportunities f
 
 The SMPL body model: https://smpl.is.tue.mpg.de/
 
-# End result
+# End result GIFs
 Using a constant stepsize of 1
 
 ![](https://media.giphy.com/media/HjFiElVig3UEfAQp44/giphy.gif)
